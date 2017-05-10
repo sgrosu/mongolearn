@@ -1,0 +1,10 @@
+{
+	'name': 'Victoria',
+	'foundingDate': ISODate('1954-06-01T00:00:00.000Z'),
+	'population' : 5000
+}
+{
+	'name': 'Fagaras',
+	'foundingDate': ISODate('1440-01-01T00:00:00.000Z'),
+	'population': 15000
+}
